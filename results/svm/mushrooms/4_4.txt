@@ -1,0 +1,307 @@
+=================== prox2-saga ====================
+Point-saga: Epoch = 000, cost = 1.0000000000000000, optgap = Inf
+Prox2-SAGA: PASS_GRAD = 1, cost = 0.0062548752174098, optgap = Inf, time = 0.416872, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 2, cost = 0.0044948051093915, optgap = Inf, time = 0.808343, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 3, cost = 0.0072107388176837, optgap = Inf, time = 1.200749, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 4, cost = 0.0039361103547192, optgap = Inf, time = 1.596497, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 5, cost = 0.0037373403430109, optgap = Inf, time = 1.986180, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 6, cost = 0.0038293155715283, optgap = Inf, time = 2.380163, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 7, cost = 0.0030461264360104, optgap = Inf, time = 2.769783, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 8, cost = 0.0035094306220453, optgap = Inf, time = 3.157800, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 9, cost = 0.0033303608352403, optgap = Inf, time = 3.551392, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 10, cost = 0.0030351176086065, optgap = Inf, time = 3.938910, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 11, cost = 0.0028221875210874, optgap = Inf, time = 4.348311, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 12, cost = 0.0029657059238758, optgap = Inf, time = 4.742898, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 13, cost = 0.0027474592079283, optgap = Inf, time = 5.135685, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 14, cost = 0.0026845393346337, optgap = Inf, time = 5.530694, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 15, cost = 0.0026883873675982, optgap = Inf, time = 5.923084, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 16, cost = 0.0026630905757042, optgap = Inf, time = 6.356420, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 17, cost = 0.0026752887828195, optgap = Inf, time = 6.763384, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 18, cost = 0.0026514666783703, optgap = Inf, time = 7.161737, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 19, cost = 0.0030977092686690, optgap = Inf, time = 7.569367, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 20, cost = 0.0026380760434298, optgap = Inf, time = 7.958112, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 21, cost = 0.0026402879745290, optgap = Inf, time = 8.354198, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 22, cost = 0.0026788673460090, optgap = Inf, time = 8.745778, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 23, cost = 0.0026606238948242, optgap = Inf, time = 9.150754, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 24, cost = 0.0026393268565206, optgap = Inf, time = 9.548246, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 25, cost = 0.0025989253168334, optgap = Inf, time = 9.938305, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 26, cost = 0.0025970613070778, optgap = Inf, time = 10.339063, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 27, cost = 0.0026056947414482, optgap = Inf, time = 10.730530, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 28, cost = 0.0026120209711466, optgap = Inf, time = 11.119080, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 29, cost = 0.0025987756702414, optgap = Inf, time = 11.523848, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 30, cost = 0.0026386333607154, optgap = Inf, time = 11.919158, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 31, cost = 0.0026096394357392, optgap = Inf, time = 12.321219, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 32, cost = 0.0025959072717410, optgap = Inf, time = 12.714617, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 33, cost = 0.0026670059219678, optgap = Inf, time = 13.107558, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 34, cost = 0.0026021091713860, optgap = Inf, time = 13.507105, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 35, cost = 0.0026104615887930, optgap = Inf, time = 13.904540, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 36, cost = 0.0026121897596690, optgap = Inf, time = 14.302158, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 37, cost = 0.0026160485134194, optgap = Inf, time = 14.698587, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 38, cost = 0.0026104867275226, optgap = Inf, time = 15.090281, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 39, cost = 0.0026096829076104, optgap = Inf, time = 15.484674, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 40, cost = 0.0026020264727695, optgap = Inf, time = 15.873101, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 41, cost = 0.0026008085306002, optgap = Inf, time = 16.266402, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 42, cost = 0.0025991028993655, optgap = Inf, time = 16.656417, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 43, cost = 0.0026006089458289, optgap = Inf, time = 17.047987, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 44, cost = 0.0026013275660269, optgap = Inf, time = 17.440327, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 45, cost = 0.0025962704422239, optgap = Inf, time = 17.829816, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 46, cost = 0.0026036608362849, optgap = Inf, time = 18.220341, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 47, cost = 0.0025985438126411, optgap = Inf, time = 18.611056, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 48, cost = 0.0025975182422879, optgap = Inf, time = 18.999827, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 49, cost = 0.0025980680430323, optgap = Inf, time = 19.392998, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 50, cost = 0.0026003625319209, optgap = Inf, time = 19.784894, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 51, cost = 0.0025974453135923, optgap = Inf, time = 20.171901, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 52, cost = 0.0025982855587211, optgap = Inf, time = 20.564678, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 53, cost = 0.0025963783524070, optgap = Inf, time = 20.954519, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 54, cost = 0.0025990593843637, optgap = Inf, time = 21.348672, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 55, cost = 0.0025994532045107, optgap = Inf, time = 21.740155, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 56, cost = 0.0026030084633651, optgap = Inf, time = 22.130080, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 57, cost = 0.0025985539951736, optgap = Inf, time = 22.527459, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 58, cost = 0.0025966379438437, optgap = Inf, time = 22.915048, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 59, cost = 0.0025973107658910, optgap = Inf, time = 23.308139, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 60, cost = 0.0025974094978679, optgap = Inf, time = 23.696574, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 61, cost = 0.0025980458502029, optgap = Inf, time = 24.085929, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 62, cost = 0.0025988399304214, optgap = Inf, time = 24.482325, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 63, cost = 0.0025966068572565, optgap = Inf, time = 24.871812, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 64, cost = 0.0025977356500885, optgap = Inf, time = 25.262909, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 65, cost = 0.0025973483543998, optgap = Inf, time = 25.654692, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 66, cost = 0.0025984345084927, optgap = Inf, time = 26.047627, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 67, cost = 0.0025976302160221, optgap = Inf, time = 26.445311, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 68, cost = 0.0025968942442922, optgap = Inf, time = 26.835877, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 69, cost = 0.0025978204733928, optgap = Inf, time = 27.227171, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 70, cost = 0.0025975477929049, optgap = Inf, time = 27.618999, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 71, cost = 0.0025971045966298, optgap = Inf, time = 28.010593, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 72, cost = 0.0025980725769276, optgap = Inf, time = 28.406648, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 73, cost = 0.0025978159381112, optgap = Inf, time = 28.795373, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 74, cost = 0.0025970967569985, optgap = Inf, time = 29.180563, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 75, cost = 0.0025979352073160, optgap = Inf, time = 29.574185, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 76, cost = 0.0025968047678020, optgap = Inf, time = 29.963329, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 77, cost = 0.0025971680161212, optgap = Inf, time = 30.359431, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 78, cost = 0.0025979443381722, optgap = Inf, time = 30.747678, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 79, cost = 0.0025986478036406, optgap = Inf, time = 31.136442, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 80, cost = 0.0025969029964302, optgap = Inf, time = 31.532608, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 81, cost = 0.0025973338230236, optgap = Inf, time = 31.921734, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 82, cost = 0.0025971604993742, optgap = Inf, time = 32.315931, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 83, cost = 0.0025975030209275, optgap = Inf, time = 32.705832, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 84, cost = 0.0025974908211941, optgap = Inf, time = 33.095241, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 85, cost = 0.0025974824676638, optgap = Inf, time = 33.491448, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 86, cost = 0.0025978013902100, optgap = Inf, time = 33.881613, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 87, cost = 0.0025972455057347, optgap = Inf, time = 34.272446, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 88, cost = 0.0025974921790725, optgap = Inf, time = 34.661551, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 89, cost = 0.0025968324866034, optgap = Inf, time = 35.049806, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 90, cost = 0.0025973780399596, optgap = Inf, time = 35.441371, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 91, cost = 0.0025972282796570, optgap = Inf, time = 35.835278, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 92, cost = 0.0025968628462243, optgap = Inf, time = 36.226847, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 93, cost = 0.0025973893076030, optgap = Inf, time = 36.619900, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 94, cost = 0.0025968156872049, optgap = Inf, time = 37.010923, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 95, cost = 0.0025966781909131, optgap = Inf, time = 37.404132, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 96, cost = 0.0025970363954482, optgap = Inf, time = 37.792074, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 97, cost = 0.0025969754810766, optgap = Inf, time = 38.179327, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 98, cost = 0.0025968164586831, optgap = Inf, time = 38.574351, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 99, cost = 0.0025976605758274, optgap = Inf, time = 38.964596, w_gap = Inf
+Prox2-SAGA: PASS_GRAD = 100, cost = 0.0025974918927121, optgap = Inf, time = 39.365726, w_gap = Inf
+Max epoch reached: max_epochr = 100
+=================== sdca ====================
+Point-saga: Epoch = 000, cost = 1.0000000000000000, optgap = Inf
+SDCA: PASS_GRAD = 1, cost = 0.0170024861784148, optgap = Inf, time = 0.225918, w_opt = Inf
+SDCA: PASS_GRAD = 2, cost = 0.0129708556017629, optgap = Inf, time = 0.449663, w_opt = Inf
+SDCA: PASS_GRAD = 3, cost = 0.0125094060428145, optgap = Inf, time = 0.672496, w_opt = Inf
+SDCA: PASS_GRAD = 4, cost = 0.0078993696610945, optgap = Inf, time = 0.902066, w_opt = Inf
+SDCA: PASS_GRAD = 5, cost = 0.0061083576388001, optgap = Inf, time = 1.127727, w_opt = Inf
+SDCA: PASS_GRAD = 6, cost = 0.0062711243243374, optgap = Inf, time = 1.356163, w_opt = Inf
+SDCA: PASS_GRAD = 7, cost = 0.0049516017092034, optgap = Inf, time = 1.580146, w_opt = Inf
+SDCA: PASS_GRAD = 8, cost = 0.0043718724499616, optgap = Inf, time = 1.804991, w_opt = Inf
+SDCA: PASS_GRAD = 9, cost = 0.0041189992952609, optgap = Inf, time = 2.035763, w_opt = Inf
+SDCA: PASS_GRAD = 10, cost = 0.0043430668231465, optgap = Inf, time = 2.260096, w_opt = Inf
+SDCA: PASS_GRAD = 11, cost = 0.0034953850342300, optgap = Inf, time = 2.486542, w_opt = Inf
+SDCA: PASS_GRAD = 12, cost = 0.0034867458842378, optgap = Inf, time = 2.709136, w_opt = Inf
+SDCA: PASS_GRAD = 13, cost = 0.0031470626260832, optgap = Inf, time = 2.936210, w_opt = Inf
+SDCA: PASS_GRAD = 14, cost = 0.0038359361966671, optgap = Inf, time = 3.161316, w_opt = Inf
+SDCA: PASS_GRAD = 15, cost = 0.0030798285466239, optgap = Inf, time = 3.387721, w_opt = Inf
+SDCA: PASS_GRAD = 16, cost = 0.0031096721757028, optgap = Inf, time = 3.611983, w_opt = Inf
+SDCA: PASS_GRAD = 17, cost = 0.0032725795340476, optgap = Inf, time = 3.844045, w_opt = Inf
+SDCA: PASS_GRAD = 18, cost = 0.0035764099621832, optgap = Inf, time = 4.070132, w_opt = Inf
+SDCA: PASS_GRAD = 19, cost = 0.0033202910491603, optgap = Inf, time = 4.293271, w_opt = Inf
+SDCA: PASS_GRAD = 20, cost = 0.0028415013367255, optgap = Inf, time = 4.518211, w_opt = Inf
+SDCA: PASS_GRAD = 21, cost = 0.0028346701400489, optgap = Inf, time = 4.741427, w_opt = Inf
+SDCA: PASS_GRAD = 22, cost = 0.0028570320569644, optgap = Inf, time = 4.967707, w_opt = Inf
+SDCA: PASS_GRAD = 23, cost = 0.0027947317897855, optgap = Inf, time = 5.189504, w_opt = Inf
+SDCA: PASS_GRAD = 24, cost = 0.0027551622553548, optgap = Inf, time = 5.413451, w_opt = Inf
+SDCA: PASS_GRAD = 25, cost = 0.0027651413245669, optgap = Inf, time = 5.633434, w_opt = Inf
+SDCA: PASS_GRAD = 26, cost = 0.0027342601193773, optgap = Inf, time = 5.861641, w_opt = Inf
+SDCA: PASS_GRAD = 27, cost = 0.0028553315600962, optgap = Inf, time = 6.087831, w_opt = Inf
+SDCA: PASS_GRAD = 28, cost = 0.0027331233053730, optgap = Inf, time = 6.309740, w_opt = Inf
+SDCA: PASS_GRAD = 29, cost = 0.0027369831883310, optgap = Inf, time = 6.533180, w_opt = Inf
+SDCA: PASS_GRAD = 30, cost = 0.0028538030737398, optgap = Inf, time = 6.754487, w_opt = Inf
+SDCA: PASS_GRAD = 31, cost = 0.0027280361922601, optgap = Inf, time = 6.983065, w_opt = Inf
+SDCA: PASS_GRAD = 32, cost = 0.0027118421587179, optgap = Inf, time = 7.207697, w_opt = Inf
+SDCA: PASS_GRAD = 33, cost = 0.0027124950870514, optgap = Inf, time = 7.429865, w_opt = Inf
+SDCA: PASS_GRAD = 34, cost = 0.0026638296478518, optgap = Inf, time = 7.654197, w_opt = Inf
+SDCA: PASS_GRAD = 35, cost = 0.0028088855093034, optgap = Inf, time = 7.883131, w_opt = Inf
+SDCA: PASS_GRAD = 36, cost = 0.0026613607537710, optgap = Inf, time = 8.113562, w_opt = Inf
+SDCA: PASS_GRAD = 37, cost = 0.0026810598382360, optgap = Inf, time = 8.339101, w_opt = Inf
+SDCA: PASS_GRAD = 38, cost = 0.0027590719383405, optgap = Inf, time = 8.561886, w_opt = Inf
+SDCA: PASS_GRAD = 39, cost = 0.0026837031045377, optgap = Inf, time = 8.786863, w_opt = Inf
+SDCA: PASS_GRAD = 40, cost = 0.0026557519262054, optgap = Inf, time = 9.017075, w_opt = Inf
+SDCA: PASS_GRAD = 41, cost = 0.0026501408304792, optgap = Inf, time = 9.242237, w_opt = Inf
+SDCA: PASS_GRAD = 42, cost = 0.0026439173772050, optgap = Inf, time = 9.467447, w_opt = Inf
+SDCA: PASS_GRAD = 43, cost = 0.0026191022732940, optgap = Inf, time = 9.690762, w_opt = Inf
+SDCA: PASS_GRAD = 44, cost = 0.0027049112677162, optgap = Inf, time = 9.922967, w_opt = Inf
+SDCA: PASS_GRAD = 45, cost = 0.0027146367486657, optgap = Inf, time = 10.145692, w_opt = Inf
+SDCA: PASS_GRAD = 46, cost = 0.0027199645520676, optgap = Inf, time = 10.369603, w_opt = Inf
+SDCA: PASS_GRAD = 47, cost = 0.0026444531269703, optgap = Inf, time = 10.591409, w_opt = Inf
+SDCA: PASS_GRAD = 48, cost = 0.0026282977599560, optgap = Inf, time = 10.812025, w_opt = Inf
+SDCA: PASS_GRAD = 49, cost = 0.0026122518309909, optgap = Inf, time = 11.038515, w_opt = Inf
+SDCA: PASS_GRAD = 50, cost = 0.0026864798757357, optgap = Inf, time = 11.262326, w_opt = Inf
+SDCA: PASS_GRAD = 51, cost = 0.0026302409050942, optgap = Inf, time = 11.486541, w_opt = Inf
+SDCA: PASS_GRAD = 52, cost = 0.0026187228537887, optgap = Inf, time = 11.709965, w_opt = Inf
+SDCA: PASS_GRAD = 53, cost = 0.0026251723797068, optgap = Inf, time = 11.939214, w_opt = Inf
+SDCA: PASS_GRAD = 54, cost = 0.0026421910106802, optgap = Inf, time = 12.164125, w_opt = Inf
+SDCA: PASS_GRAD = 55, cost = 0.0026423823777651, optgap = Inf, time = 12.389227, w_opt = Inf
+SDCA: PASS_GRAD = 56, cost = 0.0026231432116007, optgap = Inf, time = 12.614708, w_opt = Inf
+SDCA: PASS_GRAD = 57, cost = 0.0028059036354176, optgap = Inf, time = 12.842588, w_opt = Inf
+SDCA: PASS_GRAD = 58, cost = 0.0026651075026217, optgap = Inf, time = 13.068472, w_opt = Inf
+SDCA: PASS_GRAD = 59, cost = 0.0026122521609286, optgap = Inf, time = 13.294801, w_opt = Inf
+SDCA: PASS_GRAD = 60, cost = 0.0030396843436430, optgap = Inf, time = 13.520416, w_opt = Inf
+SDCA: PASS_GRAD = 61, cost = 0.0026345120042866, optgap = Inf, time = 13.743315, w_opt = Inf
+SDCA: PASS_GRAD = 62, cost = 0.0026183648775139, optgap = Inf, time = 13.973591, w_opt = Inf
+SDCA: PASS_GRAD = 63, cost = 0.0026189935766105, optgap = Inf, time = 14.197492, w_opt = Inf
+SDCA: PASS_GRAD = 64, cost = 0.0026062197833931, optgap = Inf, time = 14.423773, w_opt = Inf
+SDCA: PASS_GRAD = 65, cost = 0.0026147486116276, optgap = Inf, time = 14.647418, w_opt = Inf
+SDCA: PASS_GRAD = 66, cost = 0.0026050075253296, optgap = Inf, time = 14.876376, w_opt = Inf
+SDCA: PASS_GRAD = 67, cost = 0.0026195911142901, optgap = Inf, time = 15.103305, w_opt = Inf
+SDCA: PASS_GRAD = 68, cost = 0.0026006190575285, optgap = Inf, time = 15.329489, w_opt = Inf
+SDCA: PASS_GRAD = 69, cost = 0.0026256440826873, optgap = Inf, time = 15.554179, w_opt = Inf
+SDCA: PASS_GRAD = 70, cost = 0.0026152275006882, optgap = Inf, time = 15.774538, w_opt = Inf
+SDCA: PASS_GRAD = 71, cost = 0.0026211092044253, optgap = Inf, time = 16.004433, w_opt = Inf
+SDCA: PASS_GRAD = 72, cost = 0.0026081471505207, optgap = Inf, time = 16.225829, w_opt = Inf
+SDCA: PASS_GRAD = 73, cost = 0.0026142691329606, optgap = Inf, time = 16.450162, w_opt = Inf
+SDCA: PASS_GRAD = 74, cost = 0.0026090593325699, optgap = Inf, time = 16.672932, w_opt = Inf
+SDCA: PASS_GRAD = 75, cost = 0.0026209181236941, optgap = Inf, time = 16.898131, w_opt = Inf
+SDCA: PASS_GRAD = 76, cost = 0.0026006624333038, optgap = Inf, time = 17.121937, w_opt = Inf
+SDCA: PASS_GRAD = 77, cost = 0.0026063810376689, optgap = Inf, time = 17.347829, w_opt = Inf
+SDCA: PASS_GRAD = 78, cost = 0.0025986970723525, optgap = Inf, time = 17.570451, w_opt = Inf
+SDCA: PASS_GRAD = 79, cost = 0.0026020361893104, optgap = Inf, time = 17.792784, w_opt = Inf
+SDCA: PASS_GRAD = 80, cost = 0.0026231991758293, optgap = Inf, time = 18.022989, w_opt = Inf
+SDCA: PASS_GRAD = 81, cost = 0.0025968487795689, optgap = Inf, time = 18.245103, w_opt = Inf
+SDCA: PASS_GRAD = 82, cost = 0.0026022697116710, optgap = Inf, time = 18.470977, w_opt = Inf
+SDCA: PASS_GRAD = 83, cost = 0.0026174517533745, optgap = Inf, time = 18.694037, w_opt = Inf
+SDCA: PASS_GRAD = 84, cost = 0.0025941521617349, optgap = Inf, time = 18.923134, w_opt = Inf
+SDCA: PASS_GRAD = 85, cost = 0.0025994884002359, optgap = Inf, time = 19.146851, w_opt = Inf
+SDCA: PASS_GRAD = 86, cost = 0.0026097134815006, optgap = Inf, time = 19.373987, w_opt = Inf
+SDCA: PASS_GRAD = 87, cost = 0.0025928838342340, optgap = Inf, time = 19.597480, w_opt = Inf
+SDCA: PASS_GRAD = 88, cost = 0.0026010741776927, optgap = Inf, time = 19.822248, w_opt = Inf
+SDCA: PASS_GRAD = 89, cost = 0.0025930229630936, optgap = Inf, time = 20.050186, w_opt = Inf
+SDCA: PASS_GRAD = 90, cost = 0.0026077976245815, optgap = Inf, time = 20.274634, w_opt = Inf
+SDCA: PASS_GRAD = 91, cost = 0.0025956836675110, optgap = Inf, time = 20.499711, w_opt = Inf
+SDCA: PASS_GRAD = 92, cost = 0.0025936724987470, optgap = Inf, time = 20.722713, w_opt = Inf
+SDCA: PASS_GRAD = 93, cost = 0.0025935224389127, optgap = Inf, time = 20.951285, w_opt = Inf
+SDCA: PASS_GRAD = 94, cost = 0.0025944186882929, optgap = Inf, time = 21.176013, w_opt = Inf
+SDCA: PASS_GRAD = 95, cost = 0.0025926770874646, optgap = Inf, time = 21.402164, w_opt = Inf
+SDCA: PASS_GRAD = 96, cost = 0.0025942486554186, optgap = Inf, time = 21.624365, w_opt = Inf
+SDCA: PASS_GRAD = 97, cost = 0.0025909706533380, optgap = Inf, time = 21.848566, w_opt = Inf
+SDCA: PASS_GRAD = 98, cost = 0.0025913285655270, optgap = Inf, time = 22.074957, w_opt = Inf
+SDCA: PASS_GRAD = 99, cost = 0.0025956514334327, optgap = Inf, time = 22.294647, w_opt = Inf
+SDCA: PASS_GRAD = 100, cost = 0.0025946144906733, optgap = Inf, time = 22.519573, w_opt = Inf
+=================== acc-sdca ====================
+Point-saga: Epoch = 000, cost = 1.0000000000000000, optgap = Inf
+Accelerated SDCA: PASS_GRAD = 1, cost = 0.0075400281967986, optgap = Inf, time = 0.235733, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 2, cost = 0.0053100776478854, optgap = Inf, time = 0.470627, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 3, cost = 0.0054714551324576, optgap = Inf, time = 0.701367, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 4, cost = 0.0051078564204390, optgap = Inf, time = 0.934448, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 5, cost = 0.0038270862780370, optgap = Inf, time = 1.165265, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 6, cost = 0.0039847498142218, optgap = Inf, time = 1.401324, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 7, cost = 0.0036397604174023, optgap = Inf, time = 1.633709, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 8, cost = 0.0032022557790686, optgap = Inf, time = 1.865123, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 9, cost = 0.0036737566102465, optgap = Inf, time = 2.097049, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 10, cost = 0.0034666798085478, optgap = Inf, time = 2.330567, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 11, cost = 0.0034996162070980, optgap = Inf, time = 2.563911, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 12, cost = 0.0027941449780446, optgap = Inf, time = 2.797415, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 13, cost = 0.0028805053099061, optgap = Inf, time = 3.029984, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 14, cost = 0.0030399793343431, optgap = Inf, time = 3.260958, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 15, cost = 0.0027265810669783, optgap = Inf, time = 3.495618, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 16, cost = 0.0028203965830593, optgap = Inf, time = 3.728377, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 17, cost = 0.0027496598896463, optgap = Inf, time = 3.967296, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 18, cost = 0.0026262907315882, optgap = Inf, time = 4.205517, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 19, cost = 0.0028681964738054, optgap = Inf, time = 4.454123, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 20, cost = 0.0027309538989770, optgap = Inf, time = 4.686811, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 21, cost = 0.0027108940870909, optgap = Inf, time = 4.921240, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 22, cost = 0.0026592861216523, optgap = Inf, time = 5.155411, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 23, cost = 0.0026809189007170, optgap = Inf, time = 5.400272, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 24, cost = 0.0026536932987564, optgap = Inf, time = 5.638305, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 25, cost = 0.0026169072033664, optgap = Inf, time = 5.873312, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 26, cost = 0.0026040423210186, optgap = Inf, time = 6.105430, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 27, cost = 0.0026094531881302, optgap = Inf, time = 6.341057, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 28, cost = 0.0026211256796079, optgap = Inf, time = 6.575176, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 29, cost = 0.0026882239544770, optgap = Inf, time = 6.807032, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 30, cost = 0.0026081432718243, optgap = Inf, time = 7.038418, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 31, cost = 0.0025999091734748, optgap = Inf, time = 7.268342, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 32, cost = 0.0026082516514480, optgap = Inf, time = 7.507933, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 33, cost = 0.0025982119424065, optgap = Inf, time = 7.739160, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 34, cost = 0.0026052809111019, optgap = Inf, time = 7.971620, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 35, cost = 0.0026114460001694, optgap = Inf, time = 8.204563, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 36, cost = 0.0026009550370277, optgap = Inf, time = 8.443250, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 37, cost = 0.0025933607831472, optgap = Inf, time = 8.671618, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 38, cost = 0.0025919478100160, optgap = Inf, time = 8.904426, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 39, cost = 0.0025937847242191, optgap = Inf, time = 9.134800, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 40, cost = 0.0025906085817092, optgap = Inf, time = 9.370223, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 41, cost = 0.0025929119435016, optgap = Inf, time = 9.604283, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 42, cost = 0.0025957571343303, optgap = Inf, time = 9.841249, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 43, cost = 0.0025962080640147, optgap = Inf, time = 10.072767, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 44, cost = 0.0025921217695401, optgap = Inf, time = 10.308716, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 45, cost = 0.0025884359821922, optgap = Inf, time = 10.543148, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 46, cost = 0.0026090837477049, optgap = Inf, time = 10.774604, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 47, cost = 0.0025879308390814, optgap = Inf, time = 11.009007, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 48, cost = 0.0025890336674652, optgap = Inf, time = 11.241189, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 49, cost = 0.0025892697179172, optgap = Inf, time = 11.478626, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 50, cost = 0.0025927610681296, optgap = Inf, time = 11.709608, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 51, cost = 0.0025881093451375, optgap = Inf, time = 11.942940, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 52, cost = 0.0025896616395031, optgap = Inf, time = 12.175117, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 53, cost = 0.0025877790300009, optgap = Inf, time = 12.414862, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 54, cost = 0.0025917453046502, optgap = Inf, time = 12.645209, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 55, cost = 0.0025877324889703, optgap = Inf, time = 12.880084, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 56, cost = 0.0025875470171953, optgap = Inf, time = 13.110632, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 57, cost = 0.0025879066763213, optgap = Inf, time = 13.346851, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 58, cost = 0.0025878312004440, optgap = Inf, time = 13.578810, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 59, cost = 0.0025886216551842, optgap = Inf, time = 13.812903, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 60, cost = 0.0025873047022813, optgap = Inf, time = 14.047521, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 61, cost = 0.0025874265126746, optgap = Inf, time = 14.279960, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 62, cost = 0.0025873012970834, optgap = Inf, time = 14.518103, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 63, cost = 0.0025874150331684, optgap = Inf, time = 14.748316, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 64, cost = 0.0025874625298774, optgap = Inf, time = 14.983337, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 65, cost = 0.0025874928403415, optgap = Inf, time = 15.213581, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 66, cost = 0.0025872662647133, optgap = Inf, time = 15.451139, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 67, cost = 0.0025872285726746, optgap = Inf, time = 15.682257, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 68, cost = 0.0025877451659675, optgap = Inf, time = 15.914137, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 69, cost = 0.0025873014779788, optgap = Inf, time = 16.144792, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 70, cost = 0.0025872102154368, optgap = Inf, time = 16.381226, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 71, cost = 0.0025873979571289, optgap = Inf, time = 16.613952, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 72, cost = 0.0025872077219635, optgap = Inf, time = 16.847938, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 73, cost = 0.0025872240742154, optgap = Inf, time = 17.079962, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 74, cost = 0.0025872108571326, optgap = Inf, time = 17.310926, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 75, cost = 0.0025872358643453, optgap = Inf, time = 17.545064, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 76, cost = 0.0025872189120731, optgap = Inf, time = 17.777274, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 77, cost = 0.0025872172656595, optgap = Inf, time = 18.011528, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 78, cost = 0.0025871859797016, optgap = Inf, time = 18.242481, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 79, cost = 0.0025872115982958, optgap = Inf, time = 18.481077, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 80, cost = 0.0025871848479590, optgap = Inf, time = 18.711326, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 81, cost = 0.0025872027793536, optgap = Inf, time = 18.945736, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 82, cost = 0.0025871844455952, optgap = Inf, time = 19.176974, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 83, cost = 0.0025871790350674, optgap = Inf, time = 19.412467, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 84, cost = 0.0025871899673508, optgap = Inf, time = 19.643214, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 85, cost = 0.0025872296076588, optgap = Inf, time = 19.880185, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 86, cost = 0.0025871818534636, optgap = Inf, time = 20.115532, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 87, cost = 0.0025871771186113, optgap = Inf, time = 20.360649, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 88, cost = 0.0025871749900370, optgap = Inf, time = 20.602319, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 89, cost = 0.0025871821730701, optgap = Inf, time = 20.835199, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 90, cost = 0.0025871874242574, optgap = Inf, time = 21.067975, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 91, cost = 0.0025871750683171, optgap = Inf, time = 21.301929, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 92, cost = 0.0025871737748252, optgap = Inf, time = 21.536427, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 93, cost = 0.0025871741741185, optgap = Inf, time = 21.766166, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 94, cost = 0.0025871783063081, optgap = Inf, time = 21.997251, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 95, cost = 0.0025871743322560, optgap = Inf, time = 22.228609, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 96, cost = 0.0025871748135280, optgap = Inf, time = 22.465586, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 97, cost = 0.0025871753649735, optgap = Inf, time = 22.695482, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 98, cost = 0.0025871736613196, optgap = Inf, time = 22.926432, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 99, cost = 0.0025871729016939, optgap = Inf, time = 23.158141, w_opt = Inf
+Accelerated SDCA: PASS_GRAD = 100, cost = 0.0025871729295146, optgap = Inf, time = 23.392993, w_opt = Inf
